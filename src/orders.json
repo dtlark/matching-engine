@@ -1,0 +1,16 @@
+[
+    {
+        "firm_id": 1001,
+        "symbol": "APPL",
+        "quantity": 100,
+        "side": true,
+        "price": 1001.123
+    },
+    {
+        "firm_id": 1002,
+        "symbol": "APPL",
+        "quantity": 100,
+        "side": false,
+        "price": 1001.123
+    }
+]
