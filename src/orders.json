@@ -1,5 +1,6 @@
 [
     {
+        "otype": "N",
         "firm_id": 1001,
         "symbol": "APPL",
         "quantity": 100,
@@ -7,6 +8,7 @@
         "price": 1001.123
     },
     {
+        "otype": "N",
         "firm_id": 1002,
         "symbol": "APPL",
         "quantity": 100,
