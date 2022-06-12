@@ -1,7 +1,8 @@
 [
     {
         "otype": "N",
-        "firm_id": 1001,
+        "order_id": 1001,
+        "firm_id": 1,
         "symbol": "APPL",
         "quantity": 100,
         "side": true,
@@ -9,7 +10,8 @@
     },
     {
         "otype": "N",
-        "firm_id": 1002,
+        "order_id": 2002,
+        "firm_id": 2,
         "symbol": "APPL",
         "quantity": 100,
         "side": false,
